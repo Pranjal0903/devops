@@ -8,4 +8,4 @@ name = st.text_input("Your name here")
 if name:
     st.success(f"Hello,{name}")
 
-st.metric("Builds","1")
+st.metric("Builds","2") # change from 1 to 2
